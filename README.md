@@ -7,3 +7,4 @@
 ![Insert Expenses Page2](https://user-images.githubusercontent.com/106788394/228813589-a5414c17-00d7-43bb-8a40-a94e46119c71.PNG)
 ![Insert Expenses Page3](https://user-images.githubusercontent.com/106788394/228813610-f91dea6d-55cd-47c7-b657-4624779ead24.PNG)
 ![view by date](https://user-images.githubusercontent.com/106788394/228813645-2f54dec5-5959-4a60-aa82-d02fc65772e9.PNG)
+![view by date 2](https://user-images.githubusercontent.com/106788394/228814415-31025c38-0d3c-42a5-9238-9830e7e633df.PNG)
